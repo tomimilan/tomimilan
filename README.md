@@ -2,8 +2,6 @@
 
 ## 🌟 Alumno avanzado de Ingeniería en Sistemas de Información 🌟
 
-Soy un apasionado por el desarrollo de software y la arquitectura de sistemas, enfocado en crear soluciones escalables y eficientes.
-
 ### 🛠️ Tecnologías y Herramientas
 
 #### **Backend & Frameworks**
@@ -27,13 +25,7 @@ Soy un apasionado por el desarrollo de software y la arquitectura de sistemas, e
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
----
-
-### 📈 Mis Estadísticas de GitHub
-![Estadísticas de Tomás](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-
----
 
 ### 📫 Contacto
-- **LinkedIn:** [Tu LinkedIn Aquí](https://linkedin.com/in/tu-perfil)
-- **Email:** tu-email@ejemplo.com
+- **LinkedIn:** www.linkedin.com/in/tomasmilan
+- **Email:** tomasdanielmilan@gmail.com
